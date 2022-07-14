@@ -1,0 +1,19 @@
+{
+  "visual": {
+    "name": "testVisual",
+    "displayName": "testVisual",
+    "guid": "testVisual7C75BB94FA8047CEA18C531079645376",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "",
+    "supportUrl": "",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "4.0.0",
+  "author": { "name": "", "email": "" },
+  "assets": { "icon": "assets/icon.png" },
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
